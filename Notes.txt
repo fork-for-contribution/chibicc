@@ -1,0 +1,4 @@
+# 编译器自举
+make
+mv chibicc c
+CC=./c make
